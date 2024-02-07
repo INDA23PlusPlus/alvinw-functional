@@ -1,4 +1,4 @@
-module Distance where
+module Sum where
 import Data.List (sort)
 
 main :: IO ()
